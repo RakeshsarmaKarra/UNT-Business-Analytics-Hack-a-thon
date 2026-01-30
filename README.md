@@ -43,6 +43,8 @@ Scale Claim Cost Encoded and Scale Labor Cost Encoded have the strongest correla
 Among configuration fields, Attribute 1–4 show the most meaningful relationships with cost features and with each other, while Attribute 7–8 and Truck ID are much weaker.                                                                
 Style has a moderate correlation with warranty cost, but its impact is smaller than the detailed option codes in early attribute positions.                                                                
 
+![Heatmap](https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/Heatmap.jpg)
+
 ## Interpretation:
 High warranty cost is primarily driven by higher claim/labor severities, and specific option codes in Attribute 1–4 are more strongly associated with elevated cost than later attributes.
 
