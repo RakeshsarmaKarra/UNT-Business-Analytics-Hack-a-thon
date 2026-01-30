@@ -42,7 +42,6 @@ A correlation matrix on the numeric features shows:
 Scale Claim Cost Encoded and Scale Labor Cost Encoded have the strongest correlation with Warranty Cost.                                                                
 Among configuration fields, Attribute 1–4 show the most meaningful relationships with cost features and with each other, while Attribute 7–8 and Truck ID are much weaker.                                                                
 Style has a moderate correlation with warranty cost, but its impact is smaller than the detailed option codes in early attribute positions.                                                                
-
 ![Heatmap](https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/Heatmap.jpg)
 
 ## Interpretation:
@@ -69,6 +68,8 @@ Metrics: Accuracy, classification report, confusion matrix, and macro ROC–AUC 
 
 Captures non‑linearities and interactions among Style, Attribute 1–8, and cost features, unlike linear models.
 Improves macro ROC–AUC from ≈0.55 (multinomial logistic regression) to ≈0.80, and improves recall on minority high‑cost classes, which are most important from a risk perspective.
+
+![roc-auc](https://github.com/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon/blob/main/roc-auc%20XGBoost.png)
 ​
 # Answers to the business questions
 ## 1. Individual attributes / option codes driving warranty cost
