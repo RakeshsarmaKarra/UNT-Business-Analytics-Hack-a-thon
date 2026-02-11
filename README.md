@@ -14,7 +14,7 @@ Build a multiclass classification model to predict warranty‑cost levels for ne
 - What modeling approaches can effectively quantify these relationships and offer predictive insights for future vehicle configurations?
 
 ## Data description
-Two main datasets were provided by the hackathon organizers:
+Two main datasets were provided by the hackathon organizers.
 
 ### Configuration data
 
