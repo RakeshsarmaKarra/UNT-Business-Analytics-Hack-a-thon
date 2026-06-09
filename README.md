@@ -90,9 +90,18 @@ One‑Vs‑Rest Logistic Regression improves ROC–AUC but still uses linear bou
 XGBoost Multiclass provides the best trade‑off between accuracy and macro ROC–AUC, with materially better performance on critical, high‑cost segments.
 ​
 Tree‑based ensemble methods like XGBoost are the most suitable choice for quantifying the relationships between configuration and warranty cost and for predicting cost segments for new vehicle builds.
-​
 
 ## These predictions can be used for:
 - Pre‑launch risk assessment of proposed builds.
 - Scenario testing (e.g., “What happens to warranty risk if we change Attribute 2 and Attribute 3?”).
 - Design and pricing decisions, prioritizing safer options or pricing high‑risk bundles appropriately.
+
+## How to run the program?                                                                                                   
+You can run this program directly in the browser using github codespaces - no local setup is required.
+
+[![Open GitHub in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon)
+
+Once the Codespace loads:
+1. Open `UNT_Business_Analytics_Hack_a_thon_2024.ipynb`
+2. Select the Python kernel if prompted
+3. Run the cells from top to bottom
