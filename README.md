@@ -13,6 +13,8 @@ Build a multiclass classification model to predict warranty‑cost levels for ne
 - Are there specific pairs of attributes that interact in a way that exacerbates warranty claims?
 - What modeling approaches can effectively quantify these relationships and offer predictive insights for future vehicle configurations?
 
+[![Open GitHub in Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/RakeshsarmaKarra/UNT-Business-Analytics-Hack-a-thon)
+
 ## Data description
 Two main datasets were provided by the hackathon organizers.
 
